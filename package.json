@@ -1,0 +1,10 @@
+{
+  "name": "@beachbanners/dates-to-range-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "2.22.2",
+    "twix": "1.2.1"
+  }
+}
